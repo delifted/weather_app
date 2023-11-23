@@ -35,7 +35,7 @@ Welcome to my Weather App Portfolio Project! This web-based application allows u
 ## Usage
 Project has been deployed to http://www.delifted.tech, ensure to have a good view of the project.
 
-# Enter City Name:
+## Enter City Name:
 
 In the input field provided, start typing the name of the city you want to check the weather for.
 
