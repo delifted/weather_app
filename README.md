@@ -1,4 +1,4 @@
-README File for my ALX Portfolio Project - Weather App
+## README File for my ALX Portfolio Project - Weather App
 
 Welcome to my Weather App Portfolio Project! This web-based application allows users to check current weather conditions for a specified city. With a simple and intuitive interface, users can get real-time weather updates instantly.
 
