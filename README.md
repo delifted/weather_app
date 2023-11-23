@@ -32,8 +32,10 @@ Welcome to my Weather App Portfolio Project! This web-based application allows u
    ```bash
    git clone https://github.com/delifted/weather_app.git
 
-Usage
-Enter City Name:
+## Usage
+Project has been deployed to http://www.delifted.tech, ensure to have a good view of the project.
+
+# Enter City Name:
 
 In the input field provided, start typing the name of the city you want to check the weather for.
 
