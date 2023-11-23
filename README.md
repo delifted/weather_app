@@ -31,25 +31,25 @@ Welcome to my Weather App Portfolio Project! This web-based application allows u
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/delifted/weather_app.git
-
+	```
 ## Usage
 Project has been deployed to http://www.delifted.tech, ensure to have a good view of the project.
 
-## Enter City Name:
+**Enter City Name:**
 
 In the input field provided, start typing the name of the city you want to check the weather for.
 
-Select City:
+**Select City:**
 As you type, the app provides autocomplete suggestions. Select the desired city from the suggestions.
 
-View Weather Information:
+**View Weather Information:**
 Once a city is selected, the app will display the current weather conditions for that city, including temperature, humidity, wind speed, and a weather icon depicting the current conditions.
 
-API Reference
+**API Reference**
 
-OpenWeatherMap API:
+**OpenWeatherMap API:**
 Base URL: https://api.openweathermap.org/data/2.5/weather
 Documentation: OpenWeatherMap API Documentation
 
-Contributing
+**Contributing**
 Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request. If you encounter any issues or have suggestions for improvements, please open an issue in the repository.
